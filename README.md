@@ -1,4 +1,3 @@
-Markdown::README.md::README.md
 # Limits Service
 
 The Limits Service is a Spring Boot microservice that provides configuration limits for applications. It retrieves configuration properties from a centralized configuration server and exposes them via a RESTful API.
